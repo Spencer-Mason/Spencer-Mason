@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Spencer Mason.
+
+I am a full-stack junior developer currently enrolled in The Tech Academy's Software Developer Bootcamp, soon to be a very successful recent graduate. I'm trained in many aspects of development, including but not limited to: HTML, JavaScript, Python, C#, SQL, MVC, along with several frameworks. My training also included two internships, where I learned how to work with a team utilizing DevOps and Agile/Scrum methodology. Learning and figuring things out is my strong suite, so if you're using technology I'm not already familiar with I know I can learn it with not much trouble at all. I can guarantee I would be an asset to any team.
 
 <!--
 **Spencer-Mason/Spencer-Mason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
